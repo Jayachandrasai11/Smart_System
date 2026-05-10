@@ -19,6 +19,7 @@
     "expo": "~54.0.33",
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
+    "react-dom": "19.1.0",
     "react-hook-form": "^7.75.0",
     "react-native": "0.81.5",
     "react-native-gesture-handler": "~2.30.0",
@@ -30,6 +31,10 @@
     "react-native-worklets-core": "^1.6.3",
     "react-redux": "^9.2.0",
     "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "babel-preset-expo": "~54.0.33"
   },
   "private": true
 }
